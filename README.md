@@ -1,5 +1,7 @@
-# CHOI WON SEOK 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WonSeokChoi&fontSize=70)
+
 <br/><br/>
+
 # 🔭 Introduction...
 
 <h4> 경희대학교 컴퓨터공학과 3학년 재학 중. </h4>
