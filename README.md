@@ -1,8 +1,9 @@
 # CHOI WON SEOK 
-
+<br/><br/>
 # 🔭 Introduction...
 
-<p align=center> 경희대학교 컴퓨터공학과 3학년 재학 중. </p>
+<h4> 경희대학교 컴퓨터공학과 3학년 재학 중. </h4>
+<br/>
 
 # 🌱 Skill...  
 
@@ -13,13 +14,16 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white)
-  
+<br/><br/>
+
  # 📫 Studying...
+ 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white)
+<br/><br/>
   
 # 😄 Most Used Languages...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnjstjr123&langs_count=8)](https://github.com/dnjstjr123/github-readme-stats)
+<br/><br/>
 
 # ⚡ Github stats...
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnjstjr123&show_icons=true&theme=radical)
-
