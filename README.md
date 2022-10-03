@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 **dnjstjr123/dnjstjr123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 Introduction...
@@ -24,4 +21,3 @@
 - ⚡ Github stats ...
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnjstjr123&show_icons=true&theme=radical)
 
--->
