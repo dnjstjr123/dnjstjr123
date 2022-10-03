@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WonSeokChoi&fontSize=70)
 
-<br/><br/>
+<br/>
 
 # 🔭 Introduction...
 
