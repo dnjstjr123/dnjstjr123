@@ -5,7 +5,7 @@
 <p align=center> 경희대학교 컴퓨터공학과 3학년 재학 중. </p>
 
 # 🌱 Skill...  
-<p align=center>
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white)
@@ -13,7 +13,6 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white)
-</p>
   
  # 📫 Studying...
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white)
